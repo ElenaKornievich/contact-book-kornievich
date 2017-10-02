@@ -1,0 +1,5 @@
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\WCFContactBook.dll.config
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\WCFContactBook.dll
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\WCFContactBook.pdb
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\obj\Release\WCFContactBook.dll
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\obj\Release\WCFContactBook.pdb

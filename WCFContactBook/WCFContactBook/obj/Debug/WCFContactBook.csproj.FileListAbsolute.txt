@@ -1,0 +1,10 @@
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\WCFContactBook.dll.config
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\WCFContactBook.dll
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\WCFContactBook.pdb
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\obj\Debug\WCFContactBook.dll
+c:\users\vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\obj\Debug\WCFContactBook.pdb
+C:\Users\Vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\EntityFramework.dll
+C:\Users\Vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\EntityFramework.xml
+C:\Users\Vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Vitaliy\documents\visual studio 2017\Projects\WCFContactBook\WCFContactBook\obj\Debug\WCFContactBook.csprojResolveAssemblyReference.cache

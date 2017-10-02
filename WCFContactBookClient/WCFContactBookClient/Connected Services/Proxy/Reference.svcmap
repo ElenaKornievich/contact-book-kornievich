@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="117d5286-efb0-4181-ae69-5a73910a5790" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:54334/ContactBook.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ContactBook.disco" MetadataType="Disco" ID="c393a4dc-c57e-458b-a8b9-8761cf7ba6c5" SourceId="1" SourceUrl="http://localhost:54334/ContactBook.svc?disco" />
+    <MetadataFile FileName="ContactBook.xsd" MetadataType="Schema" ID="2fc93b55-b389-41f0-8260-16e2ec9b64df" SourceId="1" SourceUrl="http://localhost:54334/ContactBook.svc?xsd=xsd2" />
+    <MetadataFile FileName="ContactBook.wsdl" MetadataType="Wsdl" ID="e31a4a3c-61a1-432e-9d63-7af28dd4616f" SourceId="1" SourceUrl="http://localhost:54334/ContactBook.svc?wsdl" />
+    <MetadataFile FileName="ContactBook1.xsd" MetadataType="Schema" ID="4b59a9ed-1491-439c-ab21-bb48f5b129b7" SourceId="1" SourceUrl="http://localhost:54334/ContactBook.svc?xsd=xsd1" />
+    <MetadataFile FileName="ContactBook2.xsd" MetadataType="Schema" ID="3870908f-c812-4ac5-9b7c-70fab0632827" SourceId="1" SourceUrl="http://localhost:54334/ContactBook.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

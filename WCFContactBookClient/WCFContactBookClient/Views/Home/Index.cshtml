@@ -1,0 +1,36 @@
+﻿@model IEnumerable<WCFContactBookClient.Proxy.Contact>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="contactList">
+    <p>
+        @Html.ActionLink("Create new contact", "CreateContact")
+        <i>- - -</i>
+        @Html.ActionLink("Create new group", "CreateGroup")
+    </p>
+    <table class="table">
+        <tr>
+            <th>@Html.Label("Group")</th>
+            <th>@Html.Label("Name")</th>
+            <th>@Html.Label("Surname")</th>
+            <th>@Html.Label("Phone number")</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var item in Model)
+            {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Group.GroupName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Surname)</td>
+                <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+                <td>
+                    @Html.ActionLink("Edit", "EditContact", new { id = item.ContactID }) |
+                    @Html.ActionLink("Delete", "DeleteContact", new { id = item.ContactID })
+                    @*@Ajax.ActionLink("Delete", "Delete", new { id = item.ContactID }, new AjaxOptions() { UpdateTargetId = "contactList" })*@
+                </td>
+            </tr>
+        }
+    </table>
+</div>
